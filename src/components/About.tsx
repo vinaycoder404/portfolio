@@ -2,7 +2,6 @@
 
 import AnimatedSection from './ui/AnimatedSection';
 import SectionHeading from './ui/SectionHeading';
-import { personalInfo } from '@/data/portfolio';
 
 const highlights = [
     { icon: '🚀', label: '6+ Years of Experience', desc: 'Full-stack JavaScript development' },

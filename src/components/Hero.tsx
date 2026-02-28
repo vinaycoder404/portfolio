@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { FiMail, FiLinkedin, FiGithub, FiPhone, FiArrowDown } from 'react-icons/fi';
+import { FiMail, FiLinkedin, FiGithub, FiArrowDown } from 'react-icons/fi';
 import { personalInfo } from '@/data/portfolio';
 
 const socialLinks = [
