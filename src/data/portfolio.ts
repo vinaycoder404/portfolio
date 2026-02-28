@@ -19,8 +19,9 @@ export const personalInfo = {
 
 export const skills = {
   proficient: [
+    { name: "AI / LLM Integration", category: "AI" },
+    { name: "OpenAI", category: "AI" },
     { name: "React JS", category: "Frontend" },
-    { name: "Next JS", category: "Frontend" },
     { name: "JavaScript", category: "Frontend" },
     { name: "HTML5", category: "Frontend" },
     { name: "CSS3", category: "Frontend" },
@@ -29,11 +30,11 @@ export const skills = {
     { name: "Thunk", category: "Frontend" },
     { name: "Node JS", category: "Backend" },
     { name: "Express", category: "Backend" },
-    { name: "Microservices", category: "Backend" },
     { name: "REST APIs", category: "Backend" },
     { name: "MySQL", category: "Database" },
     { name: "Sequelize ORM", category: "Database" },
     { name: "MongoDB", category: "Database" },
+    { name: "Mongoose", category: "Database" },
     { name: "Redis", category: "DevOps" },
     { name: "AWS EC2", category: "DevOps" },
     { name: "AWS S3", category: "DevOps" },
@@ -46,8 +47,8 @@ export const skills = {
   ],
   familiar: [
     { name: "AWS Lambda", category: "DevOps" },
-    { name: "Mongoose", category: "Database" },
-    { name: "AI / LLM Integration", category: "AI" },
+    { name: "Next JS", category: "Frontend" },
+    { name: "Microservices", category: "Backend" },
     { name: "Docker (basic)", category: "DevOps" },
   ],
   soft: ["Leadership", "Problem Solving", "Decision Making", "Team Management"],
