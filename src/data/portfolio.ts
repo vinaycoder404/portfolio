@@ -19,6 +19,7 @@ export const personalInfo = {
 
 export const skills = {
   proficient: [
+    { name: "Generative AI", category: "AI" },
     { name: "AI / LLM Integration", category: "AI" },
     { name: "OpenAI", category: "AI" },
     { name: "React JS", category: "Frontend" },
@@ -46,6 +47,7 @@ export const skills = {
     { name: "Cron Jobs", category: "Tools" },
   ],
   familiar: [
+    { name: "Agentic AI", category: "AI" },
     { name: "AWS Lambda", category: "DevOps" },
     { name: "Next JS", category: "Frontend" },
     { name: "Microservices", category: "Backend" },
