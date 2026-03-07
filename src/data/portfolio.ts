@@ -48,6 +48,8 @@ export const skills = {
   ],
   familiar: [
     { name: "Agentic AI", category: "AI" },
+    { name: "LangChain", category: "AI" },
+    { name: "LangGraph", category: "AI" },
     { name: "ollama", category: "AI" },
     { name: "AWS Lambda", category: "DevOps" },
     { name: "Next JS", category: "Frontend" },
